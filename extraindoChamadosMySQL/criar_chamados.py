@@ -7,8 +7,6 @@ ruby={
     'id_tipoassunto':'9a3121d66db5e9783ed400c05095f434'
 }
 
-
-
 def abrirChamados(id):
     apilink = f'https://api.tomticket.com/criar_chamado/{token}/{id}'
     r = requests.post(apilink, data=ruby)
