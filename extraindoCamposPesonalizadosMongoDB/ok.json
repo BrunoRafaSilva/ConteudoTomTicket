@@ -1,0 +1,68 @@
+{'erro': False, 'data': [
+        {'idchamado': 'eb83995449b42565f044c8403f4a5ed3', 'protocolo': 7, 'titulo': 'nova webcam', 'mensagem': '<p>quero uma webcam redragon</p>', 'mimetype': 'text/html', 'email_cliente': '15615@alunos.estacio.br', 'prioridade': 1, 'tempotrabalho': 0, 'tempoabertura': None, 'data_criacao': '02/11/2023 20: 18', 'deadline': None, 'valoritemhora': 0, 'valoritemhoraextra': 0, 'valorfinal': 0, 'valorfinalextra': 0, 'valorfinalbruto': 0, 'nomecliente': 'Luiza', 'tipochamado': 'Externo', 'avaliadoproblemaresolvido': None, 'avaliadoatendimento': None, 'avaliacaocomentario': None, 'dataprimeiraresposta': '02/11/2023 20: 19', 'dataencerramento': None, 'ultimasituacao': 2, 'dataultimasituacao': '02/11/2023 20: 19', 'sla_inicio': None, 'sla_deadline': None, 'sla_inicializacao_cumprido': None, 'sla_deadline_cumprido': None, 'descsituacao': 'Respondido, aguardando resposta do cliente', 'categoria': 'Webcam', 'departamento': 'Suporte N2', 'atendente': None, 'id_cliente': None, 'status': None, 'dataultimostatus': None, 'nomeorganizacao': None, 'id_organizacao': None, 'id_organizacao_matriz': None, 'campospersonalizados': [
+                {'id': '8c126b8c59fdbe11434239bb04117a2d', 'label': 'Modelo Webcam', 'value': 'Logitech'
+                },
+                {'id': '83b7be221116a49aa6f9cc59d5a82ed9', 'label': 'Setor', 'value': 'Financeiro'
+                },
+                {'id': 'adf41c2d53c27de61eb10dae2c2abc5f', 'label': 'Tipo de Atendimento', 'value': 'Solicitação'
+                }
+            ], 'campospersonalizados_finalizados': []
+        },
+        {'idchamado': '65b78f82d5d41a295a0109def2d85ce2', 'protocolo': 6, 'titulo': 'Troca webcam', 'mensagem': '\n<p>Minha webcam quebrou, preciso que troquem</p>\n', 'mimetype': 'text/html', 'email_cliente': 'lucildaxavier@yahoo.com', 'prioridade': 1, 'tempotrabalho': 0, 'tempoabertura': '87822', 'data_criacao': '02/11/2023 20: 17', 'deadline': None, 'valoritemhora': 0, 'valoritemhoraextra': 0, 'valorfinal': 0, 'valorfinalextra': 0, 'valorfinalbruto': 0, 'nomecliente': 'Roberto', 'tipochamado': 'Externo', 'avaliadoproblemaresolvido': 'S', 'avaliadoatendimento': 'O', 'avaliacaocomentario': 'ij', 'dataprimeiraresposta': '02/11/2023 20: 19', 'dataencerramento': '03/11/2023 20: 41', 'ultimasituacao': 5, 'dataultimasituacao': '03/11/2023 20: 41', 'sla_inicio': None, 'sla_deadline': None, 'sla_inicializacao_cumprido': None, 'sla_deadline_cumprido': None, 'descsituacao': 'Finalizado', 'categoria': 'Webcam', 'departamento': 'Suporte N2', 'atendente': 'Cont Aprendizado', 'id_cliente': None, 'status': None, 'dataultimostatus': None, 'nomeorganizacao': None, 'id_organizacao': None, 'id_organizacao_matriz': None, 'campospersonalizados': [
+                {'id': '8c126b8c59fdbe11434239bb04117a2d', 'label': 'Modelo Webcam', 'value': 'Mancer'
+                },
+                {'id': '83b7be221116a49aa6f9cc59d5a82ed9', 'label': 'Setor', 'value': 'Manutenção'
+                },
+                {'id': 'adf41c2d53c27de61eb10dae2c2abc5f', 'label': 'Tipo de Atendimento', 'value': 'Troca'
+                }
+            ], 'campospersonalizados_finalizados': []
+        },
+        {'idchamado': '0babaaf5b11a0191e7bbc899854b02e2', 'protocolo': 5, 'titulo': 'Computador do novato', 'mensagem': '<p>preciso de um novo ponto de rede pro computador do novato</p>', 'mimetype': 'text/html', 'email_cliente': 'lucildaxavier@yahoo.com', 'prioridade': 1, 'tempotrabalho': 0, 'tempoabertura': None, 'data_criacao': '02/11/2023 20: 17', 'deadline': None, 'valoritemhora': 0, 'valoritemhoraextra': 0, 'valorfinal': 0, 'valorfinalextra': 0, 'valorfinalbruto': 0, 'nomecliente': 'Roberto', 'tipochamado': 'Externo', 'avaliadoproblemaresolvido': None, 'avaliadoatendimento': None, 'avaliacaocomentario': None, 'dataprimeiraresposta': '02/11/2023 20: 18', 'dataencerramento': None, 'ultimasituacao': 2, 'dataultimasituacao': '02/11/2023 20: 18', 'sla_inicio': None, 'sla_deadline': None, 'sla_inicializacao_cumprido': None, 'sla_deadline_cumprido': None, 'descsituacao': 'Respondido, aguardando resposta do cliente', 'categoria': 'Internet', 'departamento': 'Primeiro Contato', 'atendente': 'Cont Aprendizado', 'id_cliente': None, 'status': None, 'dataultimostatus': None, 'nomeorganizacao': None, 'id_organizacao': None, 'id_organizacao_matriz': None, 'campospersonalizados': [
+                {'id': '422196911253a9e7d9c45256bd11d357', 'label': 'Internet', 'value': 'Novo Ponto'
+                },
+                {'id': '83b7be221116a49aa6f9cc59d5a82ed9', 'label': 'Setor', 'value': 'Departamento Pessoal'
+                },
+                {'id': 'adf41c2d53c27de61eb10dae2c2abc5f', 'label': 'Tipo de Atendimento', 'value': 'Proativo'
+                }
+            ], 'campospersonalizados_finalizados': []
+        },
+        {'idchamado': '87fcb78c7ff588a1d0f3d46905de390f', 'protocolo': 4, 'titulo': 'Muito lenta', 'mensagem': '\n<p>internet muito lenta</p>\n', 'mimetype': 'text/html', 'email_cliente': '15615@alunos.estacio.br', 'prioridade': 1, 'tempotrabalho': 0, 'tempoabertura': None, 'data_criacao': '02/11/2023 20: 17', 'deadline': None, 'valoritemhora': 0, 'valoritemhoraextra': 0, 'valorfinal': 0, 'valorfinalextra': 0, 'valorfinalbruto': 0, 'nomecliente': 'Luiza', 'tipochamado': 'Externo', 'avaliadoproblemaresolvido': None, 'avaliadoatendimento': None, 'avaliacaocomentario': None, 'dataprimeiraresposta': '02/11/2023 20: 18', 'dataencerramento': None, 'ultimasituacao': 2, 'dataultimasituacao': '02/11/2023 20: 18', 'sla_inicio': None, 'sla_deadline': None, 'sla_inicializacao_cumprido': None, 'sla_deadline_cumprido': None, 'descsituacao': 'Respondido, aguardando resposta do cliente', 'categoria': 'Internet', 'departamento': 'Suporte N2', 'atendente': 'Cont Aprendizado', 'id_cliente': None, 'status': None, 'dataultimostatus': None, 'nomeorganizacao': None, 'id_organizacao': None, 'id_organizacao_matriz': None, 'campospersonalizados': [
+                {'id': '422196911253a9e7d9c45256bd11d357', 'label': 'Internet', 'value': 'Lentidão'
+                },
+                {'id': '83b7be221116a49aa6f9cc59d5a82ed9', 'label': 'Setor', 'value': 'Recursos Humanos'
+                },
+                {'id': 'adf41c2d53c27de61eb10dae2c2abc5f', 'label': 'Tipo de Atendimento', 'value': 'Proativo'
+                }
+            ], 'campospersonalizados_finalizados': []
+        },
+        {'idchamado': 'ea62fc05ab9cbd371d702806de0ac065', 'protocolo': 3, 'titulo': 'Navegador - Instalação', 'mensagem': '<p>Solicito Instalação do Navegador Em Minha Maquina</p>', 'mimetype': 'text/html', 'email_cliente': 'lucildaxavier@yahoo.com', 'prioridade': 1, 'tempotrabalho': 0, 'tempoabertura': None, 'data_criacao': '02/11/2023 20: 00', 'deadline': None, 'valoritemhora': 0, 'valoritemhoraextra': 0, 'valorfinal': 0, 'valorfinalextra': 0, 'valorfinalbruto': 0, 'nomecliente': 'Roberto', 'tipochamado': 'Externo', 'avaliadoproblemaresolvido': None, 'avaliadoatendimento': None, 'avaliacaocomentario': None, 'dataprimeiraresposta': '02/11/2023 20: 00', 'dataencerramento': None, 'ultimasituacao': 2, 'dataultimasituacao': '02/11/2023 20: 00', 'sla_inicio': None, 'sla_deadline': None, 'sla_inicializacao_cumprido': None, 'sla_deadline_cumprido': None, 'descsituacao': 'Respondido, aguardando resposta do cliente', 'categoria': 'Navegador', 'departamento': 'Primeiro Contato', 'atendente': 'Cont Aprendizado', 'id_cliente': None, 'status': None, 'dataultimostatus': None, 'nomeorganizacao': None, 'id_organizacao': None, 'id_organizacao_matriz': None, 'campospersonalizados': [
+                {'id': 'c6bdf0d05586f088a2d2251533e2be60', 'label': 'Navegador', 'value': 'Microsoft Edge'
+                },
+                {'id': '83b7be221116a49aa6f9cc59d5a82ed9', 'label': 'Setor', 'value': 'Financeiro'
+                },
+                {'id': 'adf41c2d53c27de61eb10dae2c2abc5f', 'label': 'Tipo de Atendimento', 'value': 'Solicitação'
+                }
+            ], 'campospersonalizados_finalizados': []
+        },
+        {'idchamado': 'b9022d22925c9e37a2c6637dad14d31b', 'protocolo': 2, 'titulo': 'Instalar chrome', 'mensagem': '<p>solicito instalação do meu navegador</p>', 'mimetype': 'text/html', 'email_cliente': 'lucildaxavier@yahoo.com', 'prioridade': 1, 'tempotrabalho': 0, 'tempoabertura': '89684', 'data_criacao': '02/11/2023 19: 52', 'deadline': None, 'valoritemhora': 0, 'valoritemhoraextra': 0, 'valorfinal': 0, 'valorfinalextra': 0, 'valorfinalbruto': 0, 'nomecliente': 'Roberto', 'tipochamado': 'Externo', 'avaliadoproblemaresolvido': 'S', 'avaliadoatendimento': 'R', 'avaliacaocomentario': 'não funcionou direito', 'dataprimeiraresposta': '02/11/2023 19: 53', 'dataencerramento': '03/11/2023 20: 47', 'ultimasituacao': 5, 'dataultimasituacao': '03/11/2023 20: 47', 'sla_inicio': None, 'sla_deadline': None, 'sla_inicializacao_cumprido': None, 'sla_deadline_cumprido': None, 'descsituacao': 'Finalizado', 'categoria': 'Navegador', 'departamento': 'Primeiro Contato', 'atendente': 'Cont Aprendizado', 'id_cliente': None, 'status': None, 'dataultimostatus': None, 'nomeorganizacao': None, 'id_organizacao': None, 'id_organizacao_matriz': None, 'campospersonalizados': [
+                {'id': '8c126b8c59fdbe11434239bb04117a2d', 'label': 'Modelo Webcam', 'value': 'Logitech'
+                },
+                {'id': 'c6bdf0d05586f088a2d2251533e2be60', 'label': 'Navegador', 'value': 'Google Chrome'
+                },
+                {'id': '83b7be221116a49aa6f9cc59d5a82ed9', 'label': 'Setor', 'value': 'Departamento Pessoal'
+                },
+                {'id': 'adf41c2d53c27de61eb10dae2c2abc5f', 'label': 'Tipo de Atendimento', 'value': 'Proativo'
+                }
+            ], 'campospersonalizados_finalizados': []
+        },
+        {'idchamado': '06ee4154c5ca62eb1ccd5e10cc1d6a48', 'protocolo': 1, 'titulo': 'Safari', 'mensagem': '<p>Safari não estava pegando, porém, ja vierem abri somente para registrar</p>', 'mimetype': 'text/html', 'email_cliente': 'clienteteste@gmail.com', 'prioridade': 1, 'tempotrabalho': 0, 'tempoabertura': None, 'data_criacao': '04/10/2023 19: 02', 'deadline': None, 'valoritemhora': 0, 'valoritemhoraextra': 0, 'valorfinal': 0, 'valorfinalextra': 0, 'valorfinalbruto': 0, 'nomecliente': 'Cliente que abre chamados', 'tipochamado': 'Externo', 'avaliadoproblemaresolvido': None, 'avaliadoatendimento': None, 'avaliacaocomentario': None, 'dataprimeiraresposta': '04/10/2023 19: 03', 'dataencerramento': None, 'ultimasituacao': 2, 'dataultimasituacao': '04/10/2023 19: 03', 'sla_inicio': None, 'sla_deadline': None, 'sla_inicializacao_cumprido': None, 'sla_deadline_cumprido': None, 'descsituacao': 'Respondido, aguardando resposta do cliente', 'categoria': 'Navegador', 'departamento': 'Primeiro Contato', 'atendente': 'Cont Aprendizado', 'id_cliente': '3213', 'status': None, 'dataultimostatus': None, 'nomeorganizacao': None, 'id_organizacao': None, 'id_organizacao_matriz': None, 'campospersonalizados': [
+                {'id': 'c6bdf0d05586f088a2d2251533e2be60', 'label': 'Navegador', 'value': 'Safari'
+                },
+                {'id': '83b7be221116a49aa6f9cc59d5a82ed9', 'label': 'Setor', 'value': 'Financeiro'
+                },
+                {'id': 'adf41c2d53c27de61eb10dae2c2abc5f', 'label': 'Tipo de Atendimento', 'value': 'Proativo'
+                }
+            ], 'campospersonalizados_finalizados': []
+        }
+    ], 'total_itens': 7
+}

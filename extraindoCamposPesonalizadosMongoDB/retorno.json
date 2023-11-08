@@ -1,0 +1,46 @@
+{
+    "_id": {
+        "$oid": "65457fb0877ed335970d281d"
+    },
+    "idchamado": "65b78f82d5d41a295a0109def2d85ce2",
+    "protocolo": 6,
+    "titulo": "Troca webcam",
+    "mensagem": "<p>Minha webcam quebrou, preciso que troquem</p>",
+    "mimetype": "text/html",
+    "email_cliente": "lucildaxavier@yahoo.com",
+    "prioridade": 1,
+    "tempotrabalho": 0,
+    "data_criacao": "02/11/2023 20:17",
+    "valoritemhora": 0,
+    "valoritemhoraextra": 0,
+    "valorfinal": 0,
+    "valorfinalextra": 0,
+    "valorfinalbruto": 0,
+    "nomecliente": "Roberto",
+    "tipochamado": "Externo",
+    "dataprimeiraresposta": "02/11/2023 20:19",
+    "ultimasituacao": 2,
+    "dataultimasituacao": "02/11/2023 20:19",
+    "descsituacao": "Respondido, aguardando resposta do cliente",
+    "categoria": "Webcam",
+    "departamento": "Suporte N2",
+    "campospersonalizados": [
+        {
+            "id": "8c126b8c59fdbe11434239bb04117a2d",
+            "label": "Modelo Webcam",
+            "value": "Mancer"
+        },
+        {
+            "id": "83b7be221116a49aa6f9cc59d5a82ed9",
+            "label": "Setor",
+            "value": "Manutenção"
+        },
+        {
+            "id": "adf41c2d53c27de61eb10dae2c2abc5f",
+            "label": "Tipo de Atendimento",
+            "value": "Troca"
+        }
+    ],
+    "campospersonalizados_finalizados": []
+}
+
